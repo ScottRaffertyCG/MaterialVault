@@ -1,6 +1,6 @@
 # materialVAULT
 
-Simple overview of use/purpose.
+![Plugin Window Interface](PluginThumbnail.png)
 
 ## Description
 
