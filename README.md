@@ -20,9 +20,8 @@ This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire fol
 ## Help
 
 Displacement is currently disabled for this initial release. It is in active development but until a future UE version is released that does not involve eidting the config files I do not think it's best to implement displacement at this early stage. 
-```
-command to run if program contains helper info
-```
+
+Metadata is 95% working. Some kinks to iron out with Author and Modified Date.
 
 ## Authors
 
