@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MaterialVault",
+	"Description": "Fully dynamic material library folder scanning and generation system. texture dependence viewer as well as live metadata viewing and editing. ",
+	"Category": "1 Material",
+	"CreatedBy": "Scott Rafferty",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://docs.google.com/forms/d/e/1FAIpQLSd_F4LPE0Ef2dnEYxYtnk6Sj0TBHokkASY6ooEKh8Mpd1ASSw/viewform?usp=sf_link ",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MaterialVault",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

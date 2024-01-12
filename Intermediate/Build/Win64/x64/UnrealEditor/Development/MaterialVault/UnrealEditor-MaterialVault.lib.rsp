@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MaterialVault.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\PluginFactory\Intermediate\Build\Win64\x64\PluginFactoryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Unreal Projects\PluginFactory\Plugins\MaterialVault\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialVault\Module.MaterialVault.cpp.obj"
+"D:\Unreal Projects\PluginFactory\Plugins\MaterialVault\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialVault\Default.rc2.res"
+/OUT:"D:\Unreal Projects\PluginFactory\Plugins\MaterialVault\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialVault\UnrealEditor-MaterialVault.lib"

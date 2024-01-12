@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\materialvault\\module.materialvault.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\pluginfactory\\intermediate\\build\\win64\\x64\\pluginfactoryeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\materialvault\\definitions.materialvault.h",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\private\\materialvault.cpp",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\public\\materialvault.h",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\public\\materialvaultstyle.h",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\public\\materialvaultcommands.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\editor\\blutility\\public\\editorutilitysubsystem.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blutility\\uht\\editorutilitysubsystem.generated.h",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\private\\materialvaultcommands.cpp",
+            "d:\\unreal projects\\pluginfactory\\plugins\\materialvault\\source\\materialvault\\private\\materialvaultstyle.cpp",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\unreal versions\\portable\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestylemacros.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

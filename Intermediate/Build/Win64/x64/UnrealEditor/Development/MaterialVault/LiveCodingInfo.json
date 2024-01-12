@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MaterialVault.cpp.obj": [
+			"MaterialVault.cpp.obj",
+			"MaterialVaultCommands.cpp.obj",
+			"MaterialVaultStyle.cpp.obj"
+		]
+	}
+}
