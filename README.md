@@ -23,6 +23,10 @@ Displacement is currently disabled for this initial release. It is in active dev
 
 Metadata is 95% working. Some kinks to iron out with Author and Modified Date.
 
+The release section has the latest large files that conventional Git would remove as they are >100MB. Download these and place them in the 
+
+\Plugins\MaterialVault\MaterialVault\Content\MaterialVault\Textures\Normals folder
+
 ## Authors
 
 
