@@ -5,7 +5,7 @@
 
 ## Description
 
-Fully dynamic material library folder scanning and generation system. texture dependence viewer as well as live metadata viewing and editing. 
+Fully dynamic UE 5.3 material library folder scanning and generation system. texture dependence viewer as well as live metadata viewing and editing. 
 
 ## Getting Started
 
