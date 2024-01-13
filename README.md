@@ -1,4 +1,5 @@
-
+ [![General badge](https://img.shields.io/badge/Large&nbsp;Textile&nbsp;Normals-v1.0-<COLOR>.svg)](https://github.com/ScottRaffertyCG/MaterialVault/releases/tag/production/)
+<a href="License.md"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 
 # ![Logo](Logo_materialVault_v002.png)
 
