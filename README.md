@@ -18,9 +18,9 @@ This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire** f
 * Open your Unreal Engine project
 * Navigate to the main editor toolbar and find the palette button (Hovering over this helpfully tells you Open the Material Vault Library Interface.)
 
-* ![Plugin Window Interface 1](MV_Load.gif)
+ ![Plugin Window Interface 1](MV_Load.gif)
 
-* ![Plugin Window Interface 2](PluginThumbnail.png)
+ ![Plugin Window Interface 2](PluginThumbnail.png)
 
 ## Help
 
