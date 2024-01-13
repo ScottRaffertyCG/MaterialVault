@@ -1,4 +1,6 @@
-# materialVAULT
+[![Release date](https://img.shields.io/github/release-date/phplicengine/bitly)]([https://packagist.org/packages/phplicengine/bitly](https://github.com/ScottRaffertyCG/MaterialVault/releases/tag/production))
+
+# ![Logo](Logo_materialVault_v002.png)
 
 ![Plugin Window Interface](PluginThumbnail.png)
 
