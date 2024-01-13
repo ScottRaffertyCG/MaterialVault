@@ -36,7 +36,7 @@ This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire** f
 	* Right Click applys the asset to the static mesh
 	* Middle Mouse Button opens up a larger thumbnail preview of this material. 
 
-for version 1.1 I will be looking at better ways to handle all three functions in a more intuitive way
+for version 1.1 I will be looking at better ways to handle all three functions in a more intuitive way.
 
 ## Authors
 
