@@ -49,7 +49,7 @@ info@scottrafferty.co.uk
 
 ## License
 
-This project is licensed under [MIT](License).
+This project is licensed under [MIT](LICENSE.md).
 
 ## Acknowledgments
 
