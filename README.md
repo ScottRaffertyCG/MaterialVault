@@ -37,14 +37,14 @@ The release section has the latest large files that conventional Git would remov
 
 Scott Rafferty
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-rafferty/)
 
 
 info@scottrafferty.co.uk
 
 ## Version History
 
-* 0.1
+* v1.0
     * Initial Release
 
 ## License
