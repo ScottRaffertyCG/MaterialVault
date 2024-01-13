@@ -24,13 +24,19 @@ This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire** f
 
 ## Help
 
-Displacement is currently disabled for this initial release. It is in active development but until a future UE version is released that does not involve eidting the config files I do not think it's best to implement displacement at this early stage. 
+* Displacement is currently disabled for this initial release. It is in active development but until a future UE version is released that does not involve eidting the config files I do not think it's best to implement displacement at this early stage. 
 
-Metadata is 95% working. Some kinks to iron out with Author and Modified Date.
+* Metadata is 95% working. Some kinks to iron out with Author and Modified Date.
 
-The release section has the latest large files that conventional Git would remove as they are >100MB. Download these and place them in the 
-
+* The release section has the latest large files that conventional Git would remove as they are >100MB. Download these and place them in the 
 \Plugins\MaterialVault\MaterialVault\Content\MaterialVault\Textures\Normals folder
+
+* In order to incorporate multiple button functions, descisions had to be made for the controls of the LMB,RMB and MMB.
+	* Left Click selects the asset in the content browser
+	* Right Click applys the asset to the static mesh
+	* Middle Mouse Button opens up a larger thumbnail preview of this material. 
+
+for version 1.1 I will be looking at better ways to handle all three functions in a more intuitive way
 
 ## Authors
 
