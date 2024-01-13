@@ -1,4 +1,3 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=paypal&label=Large%20Textile%20Normals&labelColor=afff33&color=878787&link=https%3A%2F%2Fgithub.com%2FScottRaffertyCG%2FMaterialVault%2Freleases%2Ftag%2Fproduction)
 
 
 # ![Logo](Logo_materialVault_v002.png)
@@ -20,7 +19,7 @@ This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire fol
 * Open your Unreal Engine project
 * Navigate to the main editor toolbar and find the palette button (Hovering over this helpfully tells you Open the Material Vault Library Interface.)
 
-* ![Plugin Window Interface 1](MV_Load.gif.gif)
+* ![Plugin Window Interface 1](MV_Load.gif)
 
 * ![Plugin Window Interface 2](PluginThumbnail.png)
 
