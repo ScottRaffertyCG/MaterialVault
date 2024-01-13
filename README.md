@@ -18,7 +18,7 @@ Fully dynamic UE 5.3 material library interface.
 	* Mouse button controls to apply material, select in content browser 
  	or popup a larger thumbnail swatch render
 
-The purpose of this plugin is to provide a consolidated and comprehensive interface for all types of projects to work with. Any projects needing materials and textures can use thisi interface much faster and efficently than the standard spread out functions native to Unreal. Save time on set or in studio by not needing to navigate through folders and getting lost. Quickly see, Apply and Edit materials directly in this interface. 
+The purpose of this plugin is to provide a consolidated and comprehensive interface for all types of projects to work with. Any projects needing materials and textures can use this interface much faster and efficently than the standard spread out functions native to Unreal. Save time on set or in studio by not needing to navigate through folders and getting lost. Quickly see, Apply and Edit materials directly in this interface. Version control of materials in Lookdev, CMF and other sub functions of an industry can utilize this interface to have a much more hands on and instant feedback and adapt system within Unreal. 
 
 
 ## Getting Started
