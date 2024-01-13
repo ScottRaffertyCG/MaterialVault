@@ -10,7 +10,7 @@ Fully dynamic material library folder scanning and generation system. texture de
 
 ### Installing
 
-This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire folder into either your Project/Plugins folder (if Plugins does not exist you can create it) or place it in your engine installation directory under Engine/Plugins
+This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire** folder into either your Project/Plugins folder (if Plugins does not exist you can create it) or place it in your engine installation directory under Engine/Plugins
 
 ### Loading the interface
 
