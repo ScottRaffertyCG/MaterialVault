@@ -2,8 +2,6 @@
 
 # ![Logo](Logo_materialVault_v002.png)
 
-![Plugin Window Interface](PluginThumbnail.png)
-
 ## Description
 
 Fully dynamic material library folder scanning and generation system. texture dependence viewer as well as live metadata viewing and editing. 
