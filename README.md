@@ -10,7 +10,7 @@ Fully dynamic UE 5.3 material library interface.
 	* Automatic generation of folders 1:1 with content folder structure
 	* Material Instance display and in-engine rendered thumbnails
 	* Dynamic texture dependency viewer. See what textures (and their names) are affecting a specific material you select
-	* Metadata tagging system, View and edit data such as Name, Location, Author, Modified Date and a General notes section
+	* Metadata tagging system, view and edit data such as Name, Location, Author, Modified Date and a General notes section
 	* Apply to multiple or singular static meshes
 	* functions to apply material to specific element ID
 	* Mouse button controls to apply material, select in content browser or popup a larger thumbnail swatch render
