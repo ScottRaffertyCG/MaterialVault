@@ -9,11 +9,14 @@ Fully dynamic UE 5.3 material library interface.
 
 	* Automatic generation of folders 1:1 with content folder structure
 	* Material Instance display and in-engine rendered thumbnails
-	* Dynamic texture dependency viewer. See what textures (and their names) are affecting a specific material you select
-	* Metadata tagging system, view and edit data such as Name, Location, Author, Modified Date and a General notes section
+	* Dynamic texture dependency viewer. See what textures (and their names) are affecting a specific 
+	material you select
+	* Metadata tagging system, view and edit data such as Name, Location, Author, 
+ 	Modified Date and a General notes section
 	* Apply to multiple or singular static meshes
 	* functions to apply material to specific element ID
-	* Mouse button controls to apply material, select in content browser or popup a larger thumbnail swatch render
+	* Mouse button controls to apply material, select in content browser 
+ 	or popup a larger thumbnail swatch render
 
 The purpose of this plugin is to provide a consolidated and comprehensive interface for all types of projects to work with. Any projects needing materials and textures can use thisi interface much faster and efficently than the standard spread out functions native to Unreal. Save time on set or in studio by not needing to navigate through folders and getting lost. Quickly see, Apply and Edit materials directly in this interface. 
 
