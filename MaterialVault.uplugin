@@ -1,7 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.1",
+	"EngineVersion": "5.6.0",
 	"FriendlyName": "MaterialVault",
 	"Description": "Fully dynamic material library folder scanning and generation system. texture dependence viewer as well as live metadata viewing and editing. ",
 	"Category": "1 Material",
@@ -19,6 +20,12 @@
 			"Name": "MaterialVault",
 			"Type": "Editor",
 			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	]
 }

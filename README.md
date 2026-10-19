@@ -5,7 +5,7 @@
 
 ## Description
 
-Fully dynamic UE 5.3 material library interface. 
+Fully dynamic UE 5.6 material library interface. 
 
 	* Automatic generation of folders 1:1 with content folder structure
 	* Material Instance display and in-engine rendered thumbnails
@@ -25,7 +25,7 @@ The purpose of this plugin is to provide a consolidated and comprehensive interf
 
 ### Installing
 
-This plugin is a self contained Unreal Engine 5.3 plugin. Place the **Entire** folder into either your Project/Plugins folder (if Plugins does not exist you can create it) or place it in your engine installation directory under Engine/Plugins
+This plugin is a self contained Unreal Engine 5.6 plugin. Place the **Entire** folder into either your Project/Plugins folder (if Plugins does not exist you can create it) or place it in your engine installation directory under Engine/Plugins
 
 ### Loading the interface
 
@@ -64,6 +64,8 @@ info@scottrafferty.co.uk
 
 ## Version History
 
+* v1.0.1
+    * Updated for Unreal Engine 5.6 - engine version bumped in the plugin descriptor, added the EditorScriptingUtilities plugin dependency. Sources and content assets upgrade automatically when loaded in 5.6.
 * v1.0
     * Initial Release
 
